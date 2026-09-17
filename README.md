@@ -18,5 +18,4 @@ Ich hab gerade angefangen, mich mit der **Git & GitHub** beschäftigen und lerne
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-![GitHub Gravity](https://github-readme-streak-stats.herokuapp.com/?user=erfankarimi1&theme=dark)](https://github.com/erfankarimi1)
 
